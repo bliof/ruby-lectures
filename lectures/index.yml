@@ -1,12 +1,4 @@
-0:
-  title: 00. За курса
-  date: 2015-10-05
-  url: https://speakerdeck.com/rbfmi/proghramiranie-s-ruby-2015-liektsiia-0
-1:
-  title: 01. Въведение в Ruby
-  date: 2015-10-07
-  slug: 01-introduction-to-ruby
-2:
-  title: 02. Числови типове. Масиви. Речници
-  date: 2015-10-12
-  slug: 02-numerics-arrays-hashes
+01:
+  title: Ruby 101
+  slug: 01-ruby-101
+  date: 2015-10-01
